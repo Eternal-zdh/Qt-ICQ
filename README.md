@@ -15,5 +15,9 @@
          
          history_widget，历史记录ui，读取xml文件的历史记录
 
-![image]([public/image/calculatorWidget.png](https://github.com/Eternal-zdh/QTcalculator/blob/main/image/calculatorWidget.png))
-![image]([public/image/historyWidget.png](https://github.com/Eternal-zdh/QTcalculator/blob/main/image/historyWidget.png))
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图0.png)
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图1.png)
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图2.png)
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图3.png)
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图4.png)
+![image](https://github.com/Eternal-zdh/Qt-ICQ/blob/main/image/QQ截图5.png)
